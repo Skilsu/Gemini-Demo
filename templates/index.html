@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF Zusammenfassung</title>
+</head>
+<body>
+<h1>PDF Zusammenfassung</h1>
+<form method="post" enctype="multipart/form-data">
+    <label for="url">URL Zum PDF Dokument eingeben:</label>
+    <br>
+    <br>
+    <input type="url" id="url" name="url" required>
+    <br>
+    <br>
+    <button type="submit">Zusammenfassen</button>
+</form>
+{% if summary %}
+    <h2>Zusammenfassung:</h2>
+    <p>{{ summary }}</p>
+{% endif %}
+</body>
+</html>
