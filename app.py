@@ -5,7 +5,7 @@ from vertexai.generative_models import GenerativeModel, Part
 app = Flask(__name__)
 
 # Initialize Vertex AI
-PROJECT_ID = "second-base-438714-i3"
+PROJECT_ID = ""
 vertexai.init(project=PROJECT_ID)
 
 model = GenerativeModel("gemini-1.5-flash-002")
