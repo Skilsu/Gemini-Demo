@@ -1,0 +1,5 @@
+# Zusammenfassen von PDF Dokumenten aus dem Internet
+Beispiel:
+https://dserver.bundestag.de/brd/2024/0503-24.pdf
+Ergebnis:
+Diese Verordnung ändert die Ukraine-Aufenthaltserlaubnis-Fortgeltungsverordnung. Hintergrund ist der andauernde Krieg in der Ukraine und die damit verbundene große Zahl an Geflüchteten in der EU, insbesondere in Deutschland. Der vorübergehende Schutz nach § 24 AufenthG wurde mehrfach verlängert, zuletzt bis zum 4. März 2026. Die Verordnung verlängert die Gültigkeit von Aufenthaltserlaubnissen nach § 24 Absatz 1 AufenthG, die am 1. Februar 2025 noch gültig sind, automatisch bis zum 4. März 2026. Dies erspart den Betroffenen und den Behörden den Aufwand für eine gesonderte Verlängerung. Ausgenommen sind Staatenlose und Drittstaatsangehörige ohne unbefristetes Aufenthaltsrecht in der Ukraine, die keinen Anspruch auf den vorübergehenden Schutz haben. Die Verordnung vereinfacht das Verfahren und reduziert den Verwaltungsaufwand für Behörden und Bürger. Die Änderung tritt am Tag nach der Verkündung in Kraft.
